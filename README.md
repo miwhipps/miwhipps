@@ -2,6 +2,8 @@
 
 Hi, I'm Michael. Thanks for checking out my profile.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/michael-whipps-61125826a/)
+
 ## Notable Projects
 ### Full-stack Engineer, [Mugi](https://mugi.pet/)
 Stack: TypeScript, React, Tailwind CSS, Python, Fast API, Tortoise ORM, PostreSQL, Firebase, Render
